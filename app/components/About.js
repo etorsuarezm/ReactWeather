@@ -11,7 +11,10 @@ const About = (props) => {
                 <Gravatar email="etorsuarez@gmail.com" size={150} />
             </div>
             <br/>
+            <h4 className="text-center">Héctor Suárez</h4>
             <br/>
+            <p>Gmail - <a href="mailto:etorsuarez@gmail.com">etorsuarez@gmail.com</a></p>
+            <p>LinkedIn- <a href="https://linkedin.com/in/etorsuarez">etorsuarez</a></p>
             <p>Birth developer, JS by choice and React/React Native by passion</p>
             <h2 className="text-center">Tools I used:</h2>
             <ul>
